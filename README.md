@@ -33,6 +33,20 @@ Every shortcut can be rebound in the settings page, in the toolbar popup, or in 
 
 The quick-site slots are the whole of Quick Sites: m plus a slot key saves the current page, g o / g t / g b / g w plus a slot key opens it in the current tab, a new active tab, a background tab or a new window, and g l lists all 36. The list can be exported to and imported from a JSON file, and the five pickers can be renamed as one unit.
 
+## Hints
+
+`f` labels every clickable thing on screen, `F` opens one in a new tab, `B` in a
+background tab that keeps the labels up for the next pick. Labels are at least
+two characters, and what you have already typed is dimmed so the rest of the
+label stands out.
+
+A card that links the same destination from several boxes - a video's cover,
+its title and its counters, with tracking parameters such as `?trackid=` ignored
+- gets **one** label, on the largest box: the picture. Pressing it follows the
+link itself, so an overlay in front of the picture cannot swallow the click.
+Elements without a URL (a card wired with click handlers) still get one label
+per region.
+
 ## Keys
 
 | Keys | What it does |

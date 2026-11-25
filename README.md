@@ -8,9 +8,11 @@ In memory of Vimperator.
 ## Install
 
 [**Vim Keys on addons.mozilla.org**](https://addons.mozilla.org/en-US/firefox/addon/vimkeys/)
+for Firefox 140+ (Android 142+), and
+[**Vim Keys on the Mac App Store**](https://apps.apple.com/app/vim-keys/id6834473727)
+for Safari on macOS 14+.
 
-Firefox 140+ (Android 142+). Install it and press `?` for the key list — no
-setup, no account.
+Install it and press `?` for the key list — no setup, no account.
 
 ## Screenshots
 

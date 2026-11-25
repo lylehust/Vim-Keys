@@ -73,6 +73,6 @@ Firefox 不允许任何扩展在 `addons.mozilla.org`（包括本扩展自己的
 
 ## 链接
 
-- 扩展主页：https://addons.mozilla.org/en-US/firefox/addon/vimkeys/
+- Firefox 扩展：https://addons.mozilla.org/en-US/firefox/addon/vimkeys/
 - 问题反馈：https://github.com/lylehust/Vim-Keys/issues
 - Mac App Store：https://apps.apple.com/app/vim-keys/id6834473727

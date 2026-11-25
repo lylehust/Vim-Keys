@@ -77,6 +77,6 @@ override. After installing from AMO, open any normal page to use it.
 
 ## Links
 
-- Add-on: https://addons.mozilla.org/en-US/firefox/addon/vimkeys/
+- Firefox Add-on: https://addons.mozilla.org/en-US/firefox/addon/vimkeys/
 - Issues: https://github.com/lylehust/Vim-Keys/issues
 - Mac App Store: https://apps.apple.com/app/vim-keys/id6834473727

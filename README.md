@@ -42,22 +42,6 @@ background tab that keeps the labels up for the next pick. Labels are at least
 two characters, and what you have already typed is dimmed so the rest of the
 label stands out.
 
-A card that links the same destination from several boxes - a video's cover,
-its title and its counters, with tracking parameters such as `?trackid=` ignored
-- gets **one** label, on the largest box: the picture. Pressing it follows the
-link itself, so an overlay in front of the picture cannot swallow the click.
-Elements without a URL (a card wired with click handlers) still get one label
-per region. That collapse only happens inside one visual unit, so two separate
-links to the same URL (a top-nav item and a sidebar row, or two adjacent "course
-search" links) keep their own labels.
-
-Hints also reach controls rendered inside a component's **open shadow root**
-(Reddit's search box), and a **search bar gets a single label** even when it
-holds the field, a duplicate copy, its shadow host and an icon-only submit
-button. A link that only says `href="#"` is skipped unless it carries a click
-destination (`data-endpoint`, `onclick`, ...), which is how the Ellucian
-registration tiles work.
-
 ## Keys
 
 | Keys | What it does |

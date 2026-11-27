@@ -8,7 +8,7 @@ Quick Sites 的 36 个快捷站点槽位。
 ## 安装
 
 [**在 addons.mozilla.org 安装 Vim Keys**](https://addons.mozilla.org/en-US/firefox/addon/vimkeys/)（Firefox 140+，Android 142+），或
-[**从 Mac App Store 安装 Vim Keys**](https://apps.apple.com/app/vim-keys/id6834473727)（Safari，macOS 14+）。
+[**从 Mac App Store 安装 Vim Keys**](https://apps.apple.com/app/vim-keys/id6834473727)（Safari，macOS 13.3+）。
 
 安装后按 `?` 即可查看全部快捷键，无需配置，也无需账号。
 
